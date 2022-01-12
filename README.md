@@ -1,4 +1,5 @@
 # Decentralised Lottery
+Made in accordance with [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
 
 1. Users can enter lottery with ETH based on a USD fee
 2. An admin will choose when the lottery is over
