@@ -15,12 +15,12 @@
 
 ### Technologies Used
 
-* Solidity
-* Python
-* Remix
-* Ganache
-* Rinkeby
-* Brownie
-* Py-test
+* [True Randomness(VRF)](https://docs.chain.link/docs/get-a-random-number/) and [Price Feed](https://docs.chain.link/docs/get-the-latest-price/) with [Chainlink](https://chain.link/)
 * [Openzeppelin](https://openzeppelin.com/contracts/)
-* [True Randomness(VRF)](https://docs.chain.link/docs/get-a-random-number/) and [Price Feed](https://docs.chain.link/docs/get-the-latest-price/) with Chainlink
+* [Etherscan](https://etherscan.io/)
+* [Rinkeby](https://www.rinkeby.io/#stats)
+* [Ganache](https://trufflesuite.com/ganache/)
+* [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
+* [Remix](https://remix.ethereum.org/)
+* [Solidity](https://docs.soliditylang.org/en/v0.8.11/)
+* [Python](https://www.python.org/)
